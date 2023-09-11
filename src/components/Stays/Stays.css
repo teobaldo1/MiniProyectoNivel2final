@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+    
+}
+.title1{
+    margin: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 1.5rem;
+    
+}
+.numberTarj{
+    font-family:Arial; 
+    font-size: 0.3  rem;
+}

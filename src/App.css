@@ -1,0 +1,21 @@
+.principal{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+
+        
+}
+#foto{
+    width: 350px;
+    height: 210px;
+    
+    
+}
+.emcabezado{
+    width: 1050px;
+    padding-left: 100px;
+}
+.container{
+    justify-content: center;
+}

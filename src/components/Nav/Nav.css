@@ -1,0 +1,48 @@
+.buscador{
+    display: flex;
+    align-items: center ;
+    justify-content: space-between;
+    margin: 30px;
+    
+}
+.wind{
+    width: 120px;
+}
+.botonBuscar{
+    width: 60px;
+  height: 50px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border: 1px solid rgb(218, 215, 215);
+  background-color: rgb(249, 247, 247);
+ 
+}
+.seccionBuscar{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+   
+    
+}
+#inputData1{
+    width: 120px;
+  height: 47px;
+  cursor: pointer;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border: 1px solid rgb(218, 215, 215);
+  background-color: rgb(249, 247, 247);
+  text-align: center;
+  
+}
+#inputData2{
+  cursor: pointer;
+    width: 100px;
+  height: 47px;
+  border: 1px solid rgb(218, 215, 215);
+  background-color: rgb(249, 247, 247);
+  text-align: center  ;
+}
+.divModal{
+  display: block;
+}

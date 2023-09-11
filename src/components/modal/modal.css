@@ -1,0 +1,16 @@
+.modal{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31, 121, 199);
+    transform: translateY(-100%);
+    
+}
+.modal.active{
+    transform: translateY(0);
+}

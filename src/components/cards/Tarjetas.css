@@ -1,0 +1,70 @@
+.info-card{
+
+    display: flex;
+    justify-content: space-between;
+    width: 335px;
+    height: 210;
+    font-family: 'Montserrat', sans-serif
+    'Mulish', sans-serif;
+    font-size: 0.8rem;
+    
+}
+.principalCard{
+    width: 335px;
+    height: 250px;
+   margin-top: 30px;
+
+       
+}
+
+.totalInfoCard{
+    align-items: center;
+}
+.items{
+    margin: 5px;
+}
+.itemTitle{
+    width: 380px;
+    margin: 5px;
+    font-family: 'Montserrat', sans-serif
+    'Mulish', sans-serif;
+    font-size: 0.9rem;
+    
+}
+.fotos{
+    width: 340px;
+    height: 215px;
+    border-radius: 10px;
+    
+}
+.info1 {
+    display: flex;
+    align-items: center ;
+  
+
+}
+.info2 {
+    display: flex;
+    align-items: center ;
+}
+#star{
+    color: red;
+}
+
+.botonSuperHost{
+    border-radius: 5px;
+    margin: 3px;
+    border: 1px solid;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    font-size: 1rem;
+        
+}
+.colorGrey{
+    display: flex;
+    color: grey;
+    align-items: center;
+    font-size: 0.9rem;
+}
